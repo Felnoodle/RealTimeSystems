@@ -1,5 +1,13 @@
 # Week 3 Readme Lab 2
 
+## Purpose
+
+Show how two independent tasks work concurrently and explore how the Suspended state works in FreeRTOS.
+
+## Hardware
+
+ESP32-S3-DevKitC-1 v1.1
+
 ## Prediction table
 
 | Scenario | Prediction before test | Actual observation | Did it match? Why? |

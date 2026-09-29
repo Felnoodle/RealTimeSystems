@@ -1,4 +1,6 @@
-# Week 3 Readme
+# Week 3 Lab 1 Readme
+
+## Prediction table
 
 | Scenario | Prediction before test | Actual observation | Did it match? Why? |
 |----------|------------------------|--------------------|--------------------|
